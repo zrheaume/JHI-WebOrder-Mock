@@ -1,0 +1,24 @@
+{
+  "name": "jhi-weborder-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrheaume/JHI-WebOrder-Mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrheaume/JHI-WebOrder-Mock/issues"
+  },
+  "homepage": "https://github.com/zrheaume/JHI-WebOrder-Mock#readme",
+  "dependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "@types/node": "^17.0.33"
+  }
+}
